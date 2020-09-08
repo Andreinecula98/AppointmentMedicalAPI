@@ -4,12 +4,12 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiMicSiTareApplication {
+public class MedicalAppointment {
 
 
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApiMicSiTareApplication.class, args);
+		SpringApplication.run(MedicalAppointment.class, args);
 	}
 
 }
